@@ -21,7 +21,7 @@ public class NegativeMoneyTransferTest {
     }
 
     @Test
-    void shouldTopUpFirstCard() {
+    void shouldFailWrongDataTest() {
         val noDashboardPage = new NoDashboardPage();
     }
 }
